@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.Kennyc1012:MultiStateView-1.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/2b5a242043baa812a6bac03f9e03229f9d64e8a1/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/2b5a242043baa812a6bac03f9e03229f9d64e8a1/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Kennyc1012/MultiStateView/1.3.2/d1b27163a7d2c17542078583743e72178dbd2687/MultiStateView-1.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

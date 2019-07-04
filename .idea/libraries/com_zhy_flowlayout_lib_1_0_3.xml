@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.zhy:flowlayout-lib-1.0.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5d4db27ab4bbd9c8f3d90e3ff25f0fb7b39ab3f5/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5d4db27ab4bbd9c8f3d90e3ff25f0fb7b39ab3f5/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/flowlayout-lib/1.0.3/8fefedbe10bd7d0f703d1b714f20350e30e847e8/flowlayout-lib-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

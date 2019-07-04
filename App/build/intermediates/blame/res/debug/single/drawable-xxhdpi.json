@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_special.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_special.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_wait_confirm.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_confirm.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_address.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_scan.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_special.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_special.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_address.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_address.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_share.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_share.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_completed.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_completed.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_wait_confirm.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_confirm.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_me_header.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\bg_me_header.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_setting.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_scan.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_wait_pay.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_pay.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_setting.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_share.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_share.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_completed.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_completed.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_order_wait_pay.png",
+        "source": "D:\\ASProject\\KotlinMall\\App\\src\\main\\res\\drawable-xxhdpi\\icon_order_wait_pay.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\App\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_me_header.png",
+        "source": "D:\\ASProject\\KotlinMallFinished\\App\\src\\main\\res\\drawable-xxhdpi\\bg_me_header.png"
+    }
+]

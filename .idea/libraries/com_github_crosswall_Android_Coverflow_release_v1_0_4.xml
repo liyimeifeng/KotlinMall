@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.crosswall:Android-Coverflow-release-v1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/9bd6c255e8dca0aa3382eccf08da0147d2dd7a9b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/9bd6c255e8dca0aa3382eccf08da0147d2dd7a9b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

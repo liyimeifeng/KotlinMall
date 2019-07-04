@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_out.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\fade_out_center.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\fade_out_center.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\fade_out_center.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\fade_out_center.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_in_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\fade_in_center.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\fade_in_center.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\fade_in_center.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\anim\\fade_in_center.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_out.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_corner_all.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_corner_all.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\image_placeholder.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\838162facf1689ce63d6380d02b8d7fc4ae41811\\output\\res\\drawable\\image_placeholder.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_disable.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_disable.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_refresh_loding.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d6958900dbc8b7eba6a7000e4fba02ba637af9c2\\output\\res\\drawable\\bga_refresh_loding.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tab_selector.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_news_bg.xml",
+        "source": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_news_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_dialog_bg.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_corner_all.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_corner_all.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_dialog_bg.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_nor.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_nor.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_disable.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_disable.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_all.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_all.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_blue_white_bg.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corner_blue_white_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tab_selector.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_actionsheet_header.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_actionsheet_header.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_bottom_gray.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_bottom_gray.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertview_alert.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertview_alert.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_gray_white_bg.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corner_gray_white_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_dialog_anim.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_dialog_anim.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_actionsheet_cancel.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_actionsheet_cancel.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_corner_all_blue.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_corner_all_blue.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_actionsheet_header.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_actionsheet_header.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_top.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_top.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bottom_nav_cart_selector.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\bottom_nav_cart_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_bottom_gray.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_bottom_gray.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bottom_nav_text_selector.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\bottom_nav_text_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\collect_selector.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\collect_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\home_header_corner_bg.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\home_header_corner_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bga_refresh_loding.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\d6958900dbc8b7eba6a7000e4fba02ba637af9c2\\output\\res\\drawable\\bga_refresh_loding.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bottom_nav_text_selector.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\bottom_nav_text_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_right.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_right.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_left.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_left.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\0a730eb2572ac340d3cca2fecee82c82427601cd\\output\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_check_selector.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\common_check_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_news_bg.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\bundles\\debug\\res\\drawable\\corner_news_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_all.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_all.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_gray_white_bg.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corner_gray_white_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\collect_selector.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\collect_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_pressed.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_pressed.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_dialog_anim.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_dialog_anim.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_pressed.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_pressed.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6406b08e085797dcf04b37e4806426d9907103ab\\output\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_bottom.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\corner_blue_white_bg.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\corner_blue_white_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\no_banner.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\0a730eb2572ac340d3cca2fecee82c82427601cd\\output\\res\\drawable\\no_banner.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_check_selector.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\common_check_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_right.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_right.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_top.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_top.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_bottom.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_actionsheet_cancel.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_actionsheet_cancel.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6406b08e085797dcf04b37e4806426d9907103ab\\output\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bottom_nav_cart_selector.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\bottom_nav_cart_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_selector.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_left.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_left.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__texture.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df4b2f926c0572e00a5e3b6adf50992dd23be950\\output\\res\\drawable\\crop__texture.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6406b08e085797dcf04b37e4806426d9907103ab\\output\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_bottom.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_bottom.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\state_loading.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\state_loading.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertview_alert.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertview_alert.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\home_header_corner_bg.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\home_header_corner_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\no_banner.png",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\6406b08e085797dcf04b37e4806426d9907103ab\\output\\res\\drawable\\no_banner.png"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\state_loading.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\state_loading.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_selector.xml",
+        "source": "D:\\ASProject\\KotlinMallFinished\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_selector.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df4b2f926c0572e00a5e3b6adf50992dd23be950\\output\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_common_nor.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\btn_common_nor.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\0a730eb2572ac340d3cca2fecee82c82427601cd\\output\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_none.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_none.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_alertbutton_none.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\8fb71fb139df552ffe5422b6fd4bcc91a7c4ed65\\output\\res\\drawable\\bg_alertbutton_none.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\image_placeholder.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\838162facf1689ce63d6380d02b8d7fc4ae41811\\output\\res\\drawable\\image_placeholder.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_corner_all_blue.xml",
+        "source": "D:\\ASProject\\KotlinMall\\BaseLibrary\\build\\intermediates\\bundles\\default\\res\\drawable\\border_corner_all_blue.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\0a730eb2572ac340d3cca2fecee82c82427601cd\\output\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df4b2f926c0572e00a5e3b6adf50992dd23be950\\output\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMallFinished\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\10c9e0e9bf949a181c8d98966ed8c49394847bcd\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\53e038628df5b2ab74f7f2f3e6182e9f45a52a36\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\ASProject\\KotlinMall\\MessageCenter\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\crop__texture.xml",
+        "source": "C:\\Users\\admin\\.android\\build-cache\\df4b2f926c0572e00a5e3b6adf50992dd23be950\\output\\res\\drawable\\crop__texture.xml"
+    }
+]
